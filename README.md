@@ -1,3 +1,18 @@
+# coursera-applied-data-science-with-python
+
+![](https://img.shields.io/badge/language-xxx-blue)
+![](https://img.shields.io/badge/technology-xxx,%20xxx-blue)
+![](https://img.shields.io/badge/development%20year-2021-orange)
+
+![](https://img.shields.io/github/languages/top/shijiansu/coursera-applied-data-science-with-python)
+![](https://img.shields.io/github/languages/count/shijiansu/coursera-applied-data-science-with-python)
+![](https://img.shields.io/github/languages/code-size/shijiansu/coursera-applied-data-science-with-python)
+![](https://img.shields.io/github/repo-size/shijiansu/coursera-applied-data-science-with-python)
+![](https://img.shields.io/github/last-commit/shijiansu/coursera-applied-data-science-with-python?color=red)
+
+## Outline
+
+- 
 
 Applied Data Science with Python Specialization
 https://www.coursera.org/specializations/data-science-python
@@ -17,3 +32,7 @@ Courses:
 5. Applied Social Network Analysis in Python
 
 Reference: http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/tree/master/
+
+## Execute all tests in repo
+
+`/bin/bash run-repo-test.sh`
